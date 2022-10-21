@@ -1,0 +1,378 @@
+,Movie Titles,Release Month,Release Day,Distributor,Genre,MPAA Rating,Running Time (Min),2022 Gross,Tickets Sold
+0,Top Gun: Maverick,May,27,Paramount Pictures,Action,PG-13,131,716029902,78083958
+1,Doctor Strange in the Multi…,May,6,Walt Disney,Action,PG-13,126,411331607,44856227
+2,Jurassic World: Dominion,Jun,10,Universal,Action,PG-13,146,376009080,41004261
+3,The Batman,Mar,4,Warner Bros.,Action,PG-13,175,369345583,40277599
+4,Minions: The Rise of Gru,Jul,1,Universal,Comedy,PG,88,368558620,40191779
+5,Thor: Love and Thunder,Jul,8,Walt Disney,Action,PG-13,119,343256830,37432587
+6,Spider-Man: No Way Home,Dec,17,Sony Pictures,Action,PG-13,148,241123638,26294835
+7,Sonic the Hedgehog 2,Apr,8,Paramount Pictures,Adventure,PG,122,190872904,20814929
+8,Elvis,Jun,24,Warner Bros.,Drama,PG-13,159,151040048,16471106
+9,Uncharted,Feb,18,Sony Pictures,Adventure,PG-13,116,148648820,16210340
+10,Nope,Jul,22,Universal,Horror,R,131,123277080,13443520
+11,Lightyear,Jun,17,Walt Disney,Adventure,PG,110,118307188,12901547
+12,The Lost City,Mar,25,Paramount Pictures,Adventure,PG-13,112,105344029,11487898
+13,Bullet Train,Aug,5,Sony Pictures,Thriller/Suspense,R,126,103259633,11260592
+14,The Bad Guys,Apr,22,Universal,Comedy,PG,100,96713440,10546721
+15,Fantastic Beasts: The Secre…,Apr,15,Warner Bros.,Adventure,PG-13,N/A,95850844,10452654
+16,DC League of Super Pets,Jul,29,Warner Bros.,Adventure,PG,100,93210172,10164686
+17,Where the Crawdads Sing,Jul,15,Sony Pictures,Drama,PG-13,125,90038355,9818795
+18,The Black Phone,Jun,24,Universal,Horror,R,102,89887230,9802315
+19,Sing 2,Dec,22,Universal,Adventure,PG,112,86307835,9411977
+20,Scream,Jan,14,Paramount Pictures,Horror,R,114,81641405,8903097
+21,Smile,Sep,30,Paramount Pictures,Horror,R,N/A,75959761,8283507
+22,Morbius,Apr,1,Sony Pictures,Action,PG-13,108,73793072,8047227
+23,Everything Everywhere All A…,Mar,25,A24,Action,R,146,70008593,7634524
+24,Dog,Feb,18,United Artists,Comedy,PG-13,101,61778069,6736975
+25,The Woman King,Sep,16,Sony Pictures,Action,PG-13,N/A,60956088,6647337
+26,jackass forever,Feb,4,Paramount Pictures,Reality,R,96,57743451,6296995
+27,Halloween Ends,Oct,14,Universal,Horror,R,111,46177440,5035707
+28,Death on the Nile,Feb,11,20th Century Studios,Drama,PG-13,127,45630104,4976020
+29,Downton Abbey: A New Era,May,20,Focus Features,Drama,PG,124,43896550,4786973
+30,"Donât Worry, Darling",Sep,23,Warner Bros.,Thriller/Suspense,R,123,43392622,4732019
+31,Barbarian,Sep,9,20th Century Studios,Horror,R,102,39557187,4313760
+32,The Northman,Apr,22,Focus Features,Action,R,138,34233110,3733163
+33,Jujutsu Kaisen 0: The Movie,Mar,18,FUNimation,Action,PG-13,105,33919605,3698975
+34,The Bobâs Burgers Movie,May,27,20th Century Studios,Comedy,PG-13,N/A,31933830,3482424
+35,Beast,Aug,19,Universal,Thriller/Suspense,R,93,31846530,3472904
+36,Dragon Ball Super: Super Hero,Aug,19,Crunchyroll,Action,PG-13,99,30859433,3365259
+37,Carnal Knowledge,Jan,1,Avco Embassy,Drama,R,97,28630731,3122217
+38,The Invitation,Aug,26,Sony Pictures,Horror,PG-13,104,25100080,2737195
+39,Avatar,Dec,18,20th Century Fox,Action,PG-13,162,24714024,2695095
+40,"Lyle, Lyle, Crocodile",Oct,7,Sony Pictures,Musical,PG,N/A,24512851,2673157
+41,Marry Me,Feb,11,Universal,Romantic Comedy,PG-13,112,22438180,2446911
+42,Ambulance,Apr,8,Universal,Thriller/Suspense,R,136,22309115,2432836
+43,The Kingâs Man,Dec,22,20th Century Studios,Action,R,131,20917649,2281095
+44,Father Stu,Apr,13,Sony Pictures,Drama,R,N/A,20740439,2261770
+45,The Unbearable Weight of Ma…,Apr,22,Lionsgate,Action,R,N/A,20300157,2213757
+46,Moonfall,Feb,4,Lionsgate,Action,PG-13,124,19060660,2078588
+47,Paws of Fury: The Legend of…,Jul,15,Paramount Pictures,Adventure,PG,97,17811382,1942353
+48,The 355,Jan,7,Universal,Thriller/Suspense,PG-13,124,14570455,1588926
+49,American Underdog: The Kurt…,Dec,25,Lionsgate,Drama,PG,112,14301214,1559565
+50,"RRR: Rise, Roar, Revolt",Mar,24,Sarigama Cinemas,Action,N/A,186,13885761,1514259
+51,Amsterdam,Oct,7,20th Century Studios,Comedy,R,N/A,13105565,1429178
+52,Easter Sunday,Aug,5,Universal,Comedy,PG-13,N/A,13013690,1419159
+53,Jaws,Jun,20,Universal,Horror,PG,124,12257035,1336645
+54,X,Mar,18,A24,Horror,R,105,11769469,1283475
+55,Bodies Bodies Bodies,Aug,5,A24,Horror,R,95,11446602,1248266
+56,Bros,Sep,30,Universal,Romantic Comedy,R,115,11261065,1228033
+57,Licorice Pizza,Nov,26,United Artists,Drama,R,133,10935116,1192488
+58,Mrs. Harris Goes to Paris,Jul,15,Focus Features,Drama,PG,115,10433915,1137831
+59,West Side Story,Dec,10,20th Century Studios,Musical,PG-13,156,10361074,1129888
+60,Blacklight,Feb,11,Briarcliff Entert…,Action,PG-13,108,9591094,1045920
+61,Firestarter,May,13,Universal,Horror,R,N/A,9589250,1045719
+62,The Matrix Resurrections,Dec,22,Warner Bros.,Action,R,148,9552171,1041676
+63,See How They Run,Sep,16,Searchlight Pictures,Comedy,PG-13,98,9411436,1026328
+64,Pearl,Sep,16,A24,Horror,R,102,9318520,1016196
+65,Redeeming Love,Jan,21,Universal,Drama,PG-13,134,9214020,1004800
+66,Three Thousand Years of Lon…,Aug,26,United Artists,Drama,R,108,8286741,903679
+67,Brahmastra Part 1: Shiva,Sep,9,Fox Star India,Adventure,N/A,N/A,7839108,854864
+68,Men,May,20,A24,Horror,R,100,7587853,827464
+69,Memory,Apr,29,Open Road,Action,R,114,7329043,799241
+70,Fall,Aug,12,Lionsgate,Thriller/Suspense,PG-13,107,7240521,789587
+71,Ghostbusters: Afterlife,Nov,19,Sony Pictures,Comedy,PG-13,125,6981615,761353
+72,BTS Permission to Dance on …,Mar,12,Trafalgar Releasing,Concert/Perfor…,N/A,N/A,6840000,745910
+73,K.G.F: Chapter 2,Apr,14,Viva Entertainment,Action,N/A,N/A,6604562,720235
+74,Marcel the Shell with Shoes On,Jun,24,A24,Comedy,PG,89,6333703,690698
+75,Encanto,Nov,24,Walt Disney,Adventure,PG,109,5465293,595997
+76,Orphan: First Kill,Aug,19,Paramount Pictures,Horror,R,89,5413227,590319
+77,Tucker: The Man and His Dream,Aug,12,Paramount Pictures,Drama,PG,110,5253342,572883
+78,Lifemark,Sep,9,Fathom Events,Drama,PG-13,120,5007861,546113
+79,Ponniyin Selvan: Part One,Sep,30,Sarigama Cinemas,Action,N/A,N/A,4918000,536314
+80,House of Gucci,Nov,24,United Artists,Drama,R,160,4786047,521924
+81,Mississippi Masala,Feb,5,Goldwyn Entertain…,Drama,R,117,4745453,517497
+82,The Cursed,Feb,18,LD Entertainment,Horror,R,112,4588389,500369
+83,ET: The Extra-Terrestrial,Jun,11,Universal,Drama,PG,114,4301665,469101
+84,Vengeance,Jul,29,Focus Features,Black Comedy,R,107,4225720,460820
+85,Moonage Daydream,Sep,16,Neon,Documentary,PG-13,N/A,4111471,448361
+86,Belle,Jan,14,GKIDS,Adventure,PG,122,4018313,438202
+87,Family Camp,May,13,Roadside Attractions,Comedy,PG,111,3973263,433289
+88,Cyrano,Dec,17,United Artists,Musical,PG-13,124,3873124,422369
+89,Nightmare Alley,Dec,17,Searchlight Pictures,Thriller/Suspense,R,150,3757964,409810
+90,Clerks III,Sep,13,Fathom Events,Comedy,N/A,115,3447241,375925
+91,Laal Singh Chaddha,Aug,11,Paramount Pictures,Drama,PG-13,N/A,3401324,370918
+92,Terrifier 2,Oct,6,Bloody Disgusting,Horror,N/A,N/A,3360500,366466
+93,The Outfit,Mar,18,Focus Features,Drama,R,105,3344040,364671
+94,The Worst Person in the World,Feb,4,Neon,Comedy,R,127,3034775,330946
+95,Breaking,Aug,26,Bleecker Street,Thriller/Suspense,PG-13,103,2806359,306036
+96,Honk for Jesus. Save Your S…,Sep,2,Focus Features,Comedy,R,102,2561270,279309
+97,Mack & Rita,Aug,12,Gravitas Ventures,Comedy,PG-13,95,2535459,276494
+98,Studio 666,Feb,25,Open Road,Horror,R,106,2513963,274150
+99,A Journal for Jordan,Dec,10,Sony Pictures,Drama,PG-13,131,2494113,271986
+100,Crimes of the Future,Jun,3,Neon,Horror,R,107,2452882,267489
+101,Belfast,Nov,12,Focus Features,Drama,PG-13,97,2364945,257900
+102,Gigi & Nate,Sep,2,Roadside Attractions,Drama,PG-13,114,2278838,248510
+103,Parallel Mothers,Dec,24,Sony Pictures Cla…,Drama,R,123,2177773,237488
+104,Emily the Criminal,Aug,12,Roadside Attractions,Thriller/Suspense,R,95,2156296,235146
+105,The Good House,Sep,30,Roadside Attractions,Comedy,R,103,2122280,231437
+106,The Wolf and the Lion,Feb,4,Blue Fox Entertai…,Adventure,PG,99,2072173,225973
+107,Umma,Mar,18,Sony Pictures,Horror,PG-13,N/A,2071495,225899
+108,Jeepers Creepers: Reborn,Sep,19,Fathom Events,Horror,R,88,2033057,221707
+109,Drive My Car,Nov,24,Janus Films,Drama,N/A,179,2023519,220667
+110,Watcher,Jun,3,IFC Midnight,Thriller/Suspense,R,96,1961207,213872
+111,Mr. Malcolmâs List,Jul,1,Bleecker Street,Romantic Comedy,PG,117,1885720,205640
+112,2022 Oscar Shorts,Feb,25,ShortsHD,Multiple Genres,N/A,N/A,1801646,196471
+113,Radhe Shyam,Mar,11,Great India Films,Drama,N/A,128,1800000,196292
+114,The Kingâs Daughter,Jan,21,Gravitas Ventures,Adventure,PG,91,1747263,190541
+115,Infinite Storm,Mar,25,Bleecker Street,Drama,R,104,1600542,174541
+116,Jugjugg Jeeyo,Jun,24,Moviegoers Entert…,Comedy,N/A,N/A,1540000,167938
+117,The Duke,Apr,22,Sony Pictures Cla…,Comedy,R,96,1526970,166517
+118,Y Como Es El,Apr,22,Pantelion Films,Comedy,PG-13,N/A,1500636,163646
+119,The Kashmir Files,Mar,18,Zee Studios,Thriller/Suspense,N/A,170,1485000,161941
+120,2000 Mules,May,20,DâSouza Media,Documentary,N/A,88,1465512,159815
+121,Running The Bases,Sep,16,UP2U Films,Drama,PG,127,1464011,159652
+122,The Servant,Mar,11,Rialto Pictures,Drama,N/A,115,1417550,154585
+123,The Godfather,Mar,15,Paramount Pictures,Drama,R,175,1414662,154270
+124,Acharya,Apr,28,Self Distributed,Action,N/A,136,1412000,153980
+125,Medieval,Sep,9,The Avenue Entert…,Action,R,126,1374325,149871
+126,Rogue One: A Star Wars Story,Dec,16,Walt Disney,Adventure,PG-13,134,1362667,148600
+127,Dune,Oct,22,Warner Bros.,Action,PG-13,156,1151687,125592
+128,"Hallelujah: Leonard Cohen, …",Jul,1,Sony Pictures Cla…,Documentary,PG-13,115,1061327,115739
+129,Fire of Love,Jul,6,Neon,Documentary,PG,97,1042315,113665
+130,The Contractor,Apr,1,Paramount Pictures,Thriller/Suspense,R,103,1035265,112896
+131,After Ever Happy,Sep,7,Netflix,Drama,R,N/A,989088,107861
+132,The Beatles Get Back: The R…,Jan,30,Walt Disney,Concert/Perfor…,PG-13,94,976712,106511
+133,Venom: Let There be Carnage,Oct,1,Sony Pictures,Action,PG-13,97,941330,102653
+134,Twenty One Pilots: Cinema E…,May,19,Trafalgar Releasing,Concert/Perfor…,N/A,N/A,875000,95419
+135,Hansan: Rising Dragon,Jul,29,Well Go USA,Action,N/A,130,865888,94426
+136,The Tiger Rising,Jan,21,The Avenue Entert…,Drama,PG,102,835162,91075
+137,Petite maman,Apr,22,Neon,Drama,PG,72,829065,90410
+138,Triangle of Sadness,Oct,7,Neon,Black Comedy,R,149,819875,89408
+139,The Phantom of the Open,Jun,3,Sony Pictures Cla…,Comedy,N/A,102,748695,81646
+140,TÃR,Oct,7,Focus Features,Drama,R,N/A,705281,76911
+141,Aline,Nov,26,Roadside Attractions,Drama,PG-13,126,667815,72826
+142,Ante Sundaraniki,Jun,9,Prime Media Pictures,Comedy,N/A,N/A,621000,67720
+143,The Roundup,May,20,Capelight Pictures,Action,N/A,106,613026,66851
+144,Official Competition,Jun,17,IFC Films,Comedy,R,114,593926,64768
+145,Cuando Sea Joven,Sep,23,Pantelion Films,Comedy,PG,120,577442,62970
+146,Runway 34,Apr,29,Yash Raj Films,Thriller/Suspense,N/A,141,549624,59937
+147,"Confess, Fletch",Sep,16,Paramount Pictures,Comedy,R,N/A,538842,58761
+148,The Legend of Maula Jatt,Oct,13,N/A,Action,N/A,153,525000,57251
+149,Godâs Country,Sep,16,IFC Films,Drama,R,103,493679,53836
+150,Deep in the Heart: A Texas …,Jun,3,Fin and Fur Films,Documentary,PG,101,480240,52370
+151,Brian and Charles,Jun,17,Focus Features,Comedy,PG,90,430635,46961
+152,Beast,Apr,15,United Artists,Action,N/A,155,430000,46892
+153,Emergency Declaration,Aug,12,Well Go USA,Thriller/Suspense,N/A,138,412196,44950
+154,Facing Nolan,May,24,Utopia,Documentary,N/A,102,405797,44252
+155,Superspreader,Sep,29,Iconic Releasing,Documentary,PG-13,75,399270,43540
+156,King Richard,Nov,19,Warner Bros.,Drama,PG-13,138,399007,43512
+157,Tysonâs Run,Mar,11,Collide Distribution,Drama,PG,103,391167,42657
+158,Alice,Mar,18,Roadside Attractions,Thriller/Suspense,R,98,373037,40680
+159,Selena,Mar,21,Warner Bros.,Drama,PG,135,360000,39258
+160,Inu-Oh,Aug,12,GKIDS,Musical,PG-13,97,351558,38337
+161,The Forgiven,Jul,1,Roadside Attractions,Drama,R,117,340222,37101
+162,Red Rocket,Dec,10,A24,Drama,R,128,330406,36031
+163,Mad God,Jun,10,Shudder,Horror,N/A,85,322619,35182
+164,Clean,Jan,28,IFC Films,Thriller/Suspense,N/A,94,318877,34773
+165,Waterman,Apr,1,Purdie Distribution,Documentary,N/A,88,316848,34552
+166,The Deer King,Jul,13,Fathom Events,Adventure,R,113,296210,32302
+167,Montana Story,May,13,Bleecker Street,Drama,R,113,292916,31942
+168,Flee,Dec,3,Neon,Documentary,PG-13,90,283487,30914
+169,Till,Oct,14,United Artists,Drama,PG-13,130,282757,30835
+170,A Love Song,Jul,29,Bleecker Street,Drama,PG,81,278889,30413
+171,Mothering Sunday,Mar,25,Sony Pictures Cla…,Drama,R,110,275352,30027
+172,Kaathu Vaakula Rendu Kadhal,Apr,29,Hamsini,Romantic Comedy,N/A,122,270000,29443
+173,Gone in the Night,Jul,15,Vertical Entertai…,Thriller/Suspense,R,95,266466,29058
+174,The Railway Children,Sep,23,Blue Fox Entertai…,Adventure,PG,N/A,265000,28898
+175,You Wonât Be Alone,Apr,1,Focus Features,Horror,R,109,264055,28795
+176,The Automat,Feb,18,A Slice of Pie Pr…,Documentary,N/A,79,255453,27857
+177,On the Come Up,Sep,23,Paramount Pictures,Drama,PG-13,115,236153,25752
+178,Who We Are: A Chronicle of …,Jan,14,Sony Pictures Cla…,Documentary,PG-13,118,234298,25550
+179,Sundown,Jan,28,Bleecker Street,Thriller/Suspense,R,83,229921,25073
+180,Love in Kilnerry,Apr,8,Archway Pictures,Romantic Comedy,N/A,105,213101,23238
+181,Compartment No. 6,Jan,26,Sony Pictures Cla…,Drama,R,107,205601,22421
+182,The Silent Twins,Sep,16,Focus Features,Drama,R,113,205135,22370
+183,Benediction,May,27,Roadside Attractions,Drama,PG-13,137,201093,21929
+184,Both Sides of the Blade,Jul,8,IFC Films,Drama,N/A,116,201047,21924
+185,CatVideoFest 2022,Jun,24,Oscilloscope Pict…,Documentary,N/A,N/A,196768,21457
+186,Neptune Frost,Jun,3,Kino Lorber,Musical,N/A,105,190941,20822
+187,Inland Empire,Dec,6,518 Media,Drama,R,179,186470,20334
+188,Too Cool to Kill,Feb,18,Well Go USA,Comedy,N/A,109,185882,20270
+189,Dual,Apr,15,RLJ Entertainment,Thriller/Suspense,R,94,185212,20197
+190,Hatching,Apr,29,IFC Midnight,Horror,N/A,87,182925,19948
+191,Happening,May,6,IFC Films,Drama,R,100,181023,19740
+192,UFC 273: Volkanovski vs. Th…,Apr,9,Iconic Releasing,Concert/Perfor…,N/A,N/A,180000,19629
+193,Jazz Fest: A New Orleans Story,May,13,Sony Pictures Cla…,Documentary,PG-13,N/A,179005,19520
+194,Eternals,Nov,5,Walt Disney,Action,PG-13,156,175832,19174
+195,Alienoid,Aug,26,Well Go USA,Action,N/A,143,168309,18354
+196,Virata Parvam,Jun,17,N/A,Thriller/Suspense,N/A,N/A,165000,17993
+197,Vortex,Apr,29,Utopia,Drama,N/A,135,160892,17545
+198,Resurrection,Jul,29,IFC Films,Thriller/Suspense,N/A,103,160866,17542
+199,The Conversation,Apr,7,Paramount Pictures,Thriller/Suspense,PG,113,154909,16893
+200,Hockeyland,Sep,9,Greenwich,Documentary,N/A,109,151292,16498
+201,Hit the Road,Apr,22,Kino Lorber,Drama,N/A,93,151018,16468
+202,"My Donkey, My Lover & I",Jul,22,Greenwich,Comedy,N/A,97,149621,16316
+203,The French Dispatch,Oct,22,Searchlight Pictures,Comedy,R,108,147605,16096
+204,Firebird,Apr,29,Roadside Attractions,Drama,N/A,107,144118,15716
+205,The Witch 2: The Other One,Jun,17,Well Go USA,Horror,N/A,137,143723,15673
+206,Decision to Leave,Oct,14,MUBI,Drama,N/A,N/A,140680,15341
+207,The Killer,Jul,13,Wide Lens Pictures,Action,N/A,93,134716,14690
+208,Gabby Giffords Wonât Back D…,Jul,15,Briarcliff Entert…,Documentary,PG-13,95,134098,14623
+209,Lost Illusions,Jun,10,Music Box Films,Drama,N/A,149,126391,13783
+210,Gamestop: Rise of the Players,Jan,28,Super LTD,Documentary,R,94,126297,13772
+211,Diva,Mar,26,MGM,Thriller/Suspense,N/A,N/A,122715,13382
+212,The Storied Life of A.J. Fikry,Oct,7,Vertical Entertai…,Romantic Comedy,PG-13,101,121000,13195
+213,A Silent Voice,Jan,31,Eleven Arts,Drama,Not Rated,130,120332,13122
+214,Pompo: The CinÃ©phile,Apr,27,GKIDS,Comedy,N/A,90,120119,13099
+215,The Rose Maker,Apr,1,Music Box Films,Comedy,N/A,105,119160,12994
+216,No Time to Die,Oct,8,United Artists,Action,PG-13,163,119000,12977
+217,Heropanti 2,Apr,29,Viva Entertainment,Action,N/A,N/A,115000,12540
+218,Green Ghost & The Masters O…,Apr,29,Gravitas Ventures,Action,PG-13,80,113687,12397
+219,Pleasure,May,13,Neon,Drama,R,105,106789,11645
+220,Jockey,Dec,29,Sony Pictures Cla…,Drama,R,94,104820,11430
+221,My Old School,Jul,22,Magnolia Pictures,Documentary,N/A,104,103966,11337
+222,I Love My Dad,Aug,5,Magnolia Pictures,Comedy,R,96,101508,11069
+223,Weâre All Going to the Worl…,Apr,15,Utopia,Horror,N/A,86,101178,11033
+224,Gold,Mar,11,Screen Media Films,Thriller/Suspense,R,97,100197,10926
+225,The Velvet Queen,Dec,22,Oscilloscope Pict…,Documentary,N/A,92,99045,10800
+226,Abandoned,Jun,17,Vertical Entertai…,Horror,PG-13,102,96761,10551
+227,Strawberry Mansion,Feb,18,Music Box Films,Comedy,N/A,91,96756,10551
+228,Three Minutes - A Lengthening,Aug,19,Super LTD,Documentary,PG,72,90144,9830
+229,"Goodbye, Don Glees!",Sep,16,GKIDS,Adventure,PG,94,86610,9444
+230,UnFavorable Odds,Sep,9,Atlas Distribution,Romantic Comedy,PG-13,85,86203,9400
+231,All My Puny Sorrows,Apr,15,Mongrel Media,Drama,R,103,84735,9240
+232,All My Friends Hate Me,Mar,11,Super LTD,Comedy,R,93,80405,8768
+233,Butter,Feb,25,Blue Fox Entertai…,Drama,PG-13,111,78450,8555
+234,"Paris, 13th District",Apr,15,IFC Films,Drama,R,105,73118,7973
+235,Great Freedom,Mar,4,MUBI,Drama,N/A,116,71946,7845
+236,The Territory,Aug,19,National Geograph…,Documentary,PG,86,69316,7558
+237,Maika: The Girl From Anothe…,Jun,3,Well Go USA,Adventure,PG,105,69257,7552
+238,Sharp Stick,Jul,29,Utopia,Comedy,R,86,68598,7480
+239,The Discreet Charm of the B…,May,12,N/A,Comedy,PG,102,67999,7415
+240,Hold Me Tight,Sep,9,Kino Lorber,Drama,N/A,97,66385,7239
+241,Freakscene â The Story of D…,May,27,Utopia,Documentary,N/A,80,66038,7201
+242,Le temps des secrets,Apr,1,Mongrel Media,Drama,N/A,104,64248,7006
+243,Apocalypse Now,Aug,15,United Artists,Action,R,153,63914,6969
+244,Summering,Aug,12,Bleecker Street,Drama,PG-13,87,57770,6299
+245,See For Me,Jan,7,IFC Midnight,Thriller/Suspense,N/A,93,55191,6018
+246,On the Count of Three,May,13,United Artists,Drama,R,86,54515,5944
+247,Ahedâs Knee,Mar,18,Kino Lorber,Drama,N/A,109,52702,5747
+248,Memoria,Apr,1,Neon,Drama,PG,136,52656,5742
+249,Murina,Jul,8,Kino Lorber,Drama,N/A,92,50550,5512
+250,Free Chol Soo Lee,Aug,12,MUBI,Documentary,N/A,83,50083,5461
+251,Poly Styrene: I Am a ClichÃ©,Feb,2,Utopia,Documentary,N/A,96,48544,5293
+252,Piggy,Oct,7,Magnet Releasing,Horror,N/A,90,48428,5281
+253,Vesper,Sep,30,IFC Films,Adventure,N/A,112,47883,5221
+254,Lux Aeterna,May,6,Yellow Veil Pictures,Thriller/Suspense,N/A,51,47039,5129
+255,Give Me Five,Sep,23,Well Go USA,Comedy,N/A,111,47033,5129
+256,After Yang,Mar,4,A24,Drama,PG,101,46872,5111
+257,You Are Not My Mother,Mar,25,Magnet Releasing,Horror,N/A,93,45040,4911
+258,Loving Highsmith,Sep,2,Zeitgeist,Multiple Genres,N/A,83,43683,4763
+259,Take Me to the River: New O…,Apr,22,360 Distribution,Documentary,N/A,115,43563,4750
+260,Ali and Ava,Jul,29,Greenwich,Drama,N/A,95,43358,4728
+261,Anais in Love,Apr,29,Magnolia Pictures,Comedy,N/A,98,42941,4682
+262,Poser,Jun,3,Oscilloscope Pict…,Drama,N/A,87,42179,4599
+263,A Chiara,May,27,Neon,Drama,R,121,41925,4571
+264,Jane by Charlotte,Mar,18,Utopia,Documentary,N/A,88,41080,4479
+265,Remembering Heaven,May,6,Purdie Distribution,Documentary,N/A,90,40907,4460
+266,1982,Jun,10,Tricycle Logic,Drama,N/A,100,39286,4284
+267,"Riotsville, U.S.A.",Sep,16,Magnolia Pictures,Documentary,N/A,91,38484,4196
+268,Anonymous Club,Jul,15,Oscilloscope Pict…,Documentary,N/A,83,35481,3869
+269,Ted K,Feb,18,Super LTD,Drama,R,120,35464,3867
+270,Catch the Fair One,Feb,11,IFC Films,Thriller/Suspense,N/A,85,34541,3766
+271,The Sound of Violet,Apr,29,Atlas Distribution,Drama,PG-13,107,32294,3521
+272,Sparks: The Ken Sparks Story,Jan,7,Double J Productions,Documentary,N/A,N/A,30801,3358
+273,Buried: The 1982 Alpine Mea…,Sep,23,Greenwich,Documentary,N/A,96,30310,3305
+274,Nikamma,Jun,17,Sony Pictures,Action,PG-13,N/A,30190,3292
+275,Private Desert,Aug,26,Kino Lorber,Drama,N/A,120,30151,3288
+276,Fortune Favors Lady Nikuko,Jun,3,GKIDS,Adventure,N/A,97,29823,3252
+277,The African Desperate,Sep,16,MUBI,Comedy,N/A,100,29763,3245
+278,Casablanca Beats,Sep,16,Kino Lorber,Drama,N/A,101,28305,3086
+279,Bitterbrush,Jun,17,Magnolia Pictures,Documentary,N/A,91,28099,3064
+280,"Lingui, The Sacred Bonds",Feb,4,MUBI,Drama,N/A,87,27553,3004
+281,The Innocents,May,13,IFC Films,Horror,N/A,N/A,25705,2803
+282,Fabian: Going to the Dogs,Feb,11,Kino Lorber,Drama,N/A,176,24971,2723
+283,Young Plato,Sep,23,Soilsiu Films,Documentary,N/A,102,24376,2658
+284,Wolf Pack,Sep,30,Well Go USA,Action,N/A,90,23617,2575
+285,Dreaming Walls: Inside the …,Jul,8,Magnolia Pictures,Documentary,N/A,80,22534,2457
+286,Cow,Apr,8,IFC Films,Documentary,N/A,98,22504,2454
+287,Brighton 4th,Jan,28,Kino Lorber,Comedy,N/A,95,22313,2433
+288,Good Mourning,May,20,Open Road,Comedy,R,N/A,21348,2328
+289,Mr. Klein,Nov,6,Quartet Films,Drama,Not Rated,123,20741,2261
+290,Project Wolf Hunting,Oct,7,Well Go USA,Thriller/Suspense,N/A,122,20541,2240
+291,Unplugging,Apr,22,Vertical Entertai…,Comedy,R,94,20500,2235
+292,France,Dec,10,Kino Lorber,Comedy,N/A,133,20336,2217
+293,Câmon Câmon,Nov,19,A24,Drama,N/A,108,19896,2169
+294,Flux Gourmet,Jun,24,IFC Midnight,Horror,N/A,111,19222,2096
+295,The Cherry Bushido,Mar,11,Freestyle Releasing,Adventure,PG,125,19100,2082
+296,Charlotte,Apr,22,Good Deed Enterta…,Drama,N/A,93,18520,2019
+297,Benedetta,Dec,3,IFC Films,Drama,N/A,131,18431,2009
+298,Lost Highway,Feb,21,October Films,Thriller/Suspense,R,134,18028,1965
+299,The Scary of Sixty First,Dec,3,Utopia,Horror,N/A,81,17689,1929
+300,Beba,Jun,24,Neon,Documentary,R,79,16254,1772
+301,Slash/Back,Jun,24,Mongrel Media,Thriller/Suspense,N/A,87,16247,1771
+302,Rite of the Shaman,May,27,Purdie Distribution,Drama,Not Yet Rated,69,16221,1768
+303,Hudaâs Salon,Mar,4,IFC Films,Thriller/Suspense,R,90,16128,1758
+304,Claydream,Aug,5,Oscilloscope Pict…,Documentary,N/A,N/A,16093,1754
+305,Wildhood,Mar,11,Mongrel Media,Drama,N/A,99,15998,1744
+306,"Costa Brava, Lebanon",Jul,15,Kino Lorber,Drama,N/A,107,15980,1742
+307,Sirens,Sep,30,Oscilloscope Pict…,Documentary,N/A,79,15978,1742
+308,She Will,Jul,15,IFC Midnight,Thriller/Suspense,N/A,95,15011,1636
+309,Cat Daddies,Oct,14,Gray Hat Productions,Documentary,N/A,89,14586,1590
+310,Bad Luck Banging or Loony Porn,Nov,19,Magnolia Pictures,Comedy,N/A,106,14576,1589
+311,Â¡Viva Maestro!,Apr,8,Greenwich,Documentary,N/A,99,14310,1560
+312,Writing With Fire,Nov,26,Music Box Films,Documentary,N/A,98,14112,1538
+313,Punch 9 for Harold Washington,Sep,23,Tallgrass Films,Documentary,N/A,105,13339,1454
+314,The Tale of King Crab,Apr,15,Oscilloscope Pict…,Drama,N/A,105,12896,1406
+315,Life & Life,Oct,14,Indican Pictures,Documentary,N/A,N/A,12522,1365
+316,Olga,Jun,24,Kino Lorber,Drama,N/A,87,12494,1362
+317,The Wobblies,Mar,18,First Run Features,Documentary,N/A,89,12232,1333
+318,Shortbus,Oct,4,ThinkFilm,Comedy,Not Rated,101,12205,1330
+319,Clara Sola,Jul,1,Oscilloscope Pict…,Drama,N/A,108,12076,1316
+320,Fire in the Mountains,May,20,Kino Lorber,Drama,N/A,82,12038,1312
+321,Laleh Drive,Mar,18,Integrity Releasing,Action,N/A,120,11920,1299
+322,Pretty Problems,Oct,7,IFC Films,Comedy,N/A,106,11400,1243
+323,Medusa,Jul,29,Music Box Films,Thriller/Suspense,N/A,129,11098,1210
+324,Barbarians,Apr,1,IFC Midnight,Thriller/Suspense,N/A,89,10742,1171
+325,Distant,Mar,12,New Yorker,Drama,Not Rated,110,10580,1153
+326,Stunt Rock,May,9,N/A,Action,N/A,86,9530,1039
+327,The Torch,Mar,18,IFC Films,Documentary,N/A,109,9459,1031
+328,Learn to Swim,Mar,25,Mongrel Media,Drama,N/A,N/A,9294,1013
+329,Julia,Nov,12,Sony Pictures Cla…,Documentary,PG-13,95,9246,1008
+330,In Front of Your Face,May,6,Cinema Guild,Drama,N/A,85,9150,997
+331,Almaâs Rainbow,Jun,23,Xenon Pictures,Comedy,N/A,N/A,9006,982
+332,About Fate,Sep,9,United Artists,Romantic Comedy,R,100,8688,947
+333,Burial,Sep,2,IFC Midnight,Thriller/Suspense,N/A,95,8566,934
+334,Hold Your Fire,May,20,IFC Films,Documentary,N/A,93,7502,818
+335,Mau,May,13,Greenwich,Documentary,N/A,78,7500,817
+336,Alter Ego,Jan,14,Indican Pictures,Thriller/Suspense,N/A,78,7390,805
+337,Gossamer Folds,Aug,12,Indican Pictures,Drama,N/A,96,7113,775
+338,Iâve Heard the Mermaids Sin…,Mar,11,Kino Lorber,Comedy,N/A,81,6840,745
+339,Kamikaze Hearts,Nov,30,Facets,Drama,N/A,77,6669,727
+340,Fiddlerâs Journey to the Bi…,Apr,29,Zeitgeist,Documentary,N/A,N/A,6318,688
+341,"Hello, Bookstore",Apr,29,Greenwich,Documentary,N/A,86,6000,654
+342,Italian Studies,Jan,14,Magnolia Pictures,Drama,N/A,78,5895,642
+343,A Taste of Hunger,Jan,28,Magnolia Pictures,Drama,N/A,100,5860,639
+344,The Story of Film: A New Ge…,Sep,9,Music Box Films,Documentary,N/A,167,5778,630
+345,A Banquet,Feb,18,IFC Midnight,Thriller/Suspense,N/A,98,5238,571
+346,Saloum,Sep,2,IFC Midnight,Thriller/Suspense,N/A,84,5078,553
+347,Mondocane,May,20,Kino Lorber,Thriller/Suspense,N/A,116,4927,537
+348,The Gravedigger,Mar,25,Indican Pictures,Horror,N/A,95,4726,515
+349,A Man of Integrity,Jun,17,Big World Pictures,Drama,N/A,117,4499,490
+350,a-ha: The Movie,Apr,8,Lightyear Enterta…,Documentary,N/A,109,4258,464
+351,Luzzu,Oct,15,Kino Lorber,Drama,N/A,N/A,3996,435
+352,Carmen,Sep,23,Good Deed Enterta…,Drama,N/A,83,3927,428
+353,The Novice,Dec,17,IFC Films,Thriller/Suspense,R,94,3802,414
+354,Adventures in Success,Mar,4,Utopia,Comedy,N/A,98,3695,402
+355,Last Flight Home,Oct,7,MTV Documentary F…,Documentary,N/A,106,3670,400
+356,Into the Weeds,May,20,Mongrel Media,Documentary,N/A,N/A,3410,371
+357,Carp-e Diem,Sep,16,Indican Pictures,Comedy,N/A,100,3364,366
+358,Bloom Up: A Swinger Couple …,Aug,12,Kino Lorber,Documentary,N/A,88,3107,338
+359,Highway One,Aug,26,Indican Pictures,Drama,N/A,90,3063,334
+360,The Modern Way,Sep,16,Indican Pictures,Drama,N/A,88,3059,333
+361,Apples,Jun,24,Cohen Media Group,Comedy,N/A,90,2934,319
+362,Ultrasound,Mar,11,Magnet Releasing,Thriller/Suspense,N/A,103,2908,317
+363,Golden Voices,Oct,8,Music Box Films,Romantic Comedy,N/A,88,2305,251
+364,Stanleyville,Apr,22,Oscilloscope Pict…,Comedy,N/A,88,2137,233
+365,Kill Devil Hills,Jun,4,Sumbadhat Product…,Horror,N/A,82,2022,220
+366,BâTwixt Now and Sunrise,Sep,30,Rialto Pictures,Horror,R,89,1996,217
+367,Rubikon,Jul,1,IFC Midnight,Thriller/Suspense,N/A,110,1843,200
+368,Losing Ground,Oct,7,Kino Lorber,Drama,N/A,N/A,1486,162
+369,Petite fille,Sep,17,Music Box Films,Documentary,N/A,89,1122,122
+370,Veneciafrenia,Aug,12,Sony Pictures,Adventure,R,80,1006,109
+371,Sniper: The White Raven,Jul,1,Well Go USA,Drama,R,111,881,96
+372,Terror on the Prairie,Aug,10,The Daily Wire,Western,N/A,N/A,804,87
+373,Sensational Short Films,Sep,11,N/A,Multiple Genres,N/A,107,637,69
+374,Found Wandering Lost,Jan,27,Mutiny Pictures,Drama,N/A,99,570,62
+375,The Burning Sea,Feb,25,Magnet Releasing,Action,PG-13,104,493,53
+376,Indemnity,Feb,11,N/A,N/A,N/A,124,347,347
